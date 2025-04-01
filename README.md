@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: he/him
-- ⚡ Age: 13
+- ⚡ Age: 14
 - 🌎 Country: Brazil
 
 - Discord (hitblocking)
