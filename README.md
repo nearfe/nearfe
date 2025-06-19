@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-- 😄 Pronouns: he/him
-- ⚡ Age: 14
-- 🌎 Country: Brazil
+- 🔭 I’m currently working on Minecraft plugins, custom Spigot forks, and modded clients  
+- 🌱 I’m currently learning more about Spigot internals and packet-level manipulation  
+- 💬 Discord: hitblocking 
+- 🧱 Minecraft: nirfe 
 
-- Discord (hitblocking)
-- Minecraft (hitblocking)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nearfe" alt="Profile Views" /> </p>
 
-## 🌱 Skills
-```
-public void main() {
-    String name = "nearfe"; 
-    String stack = "Backend";
-    
-    String[] languages = {"Java", "C#", "C++"};
-}
-```
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,gradle,idea,linux,mysql,mongodb,redis,bash,github)](https://skillicons.dev)
+e
